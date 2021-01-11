@@ -24,7 +24,7 @@ In this component we expect having the following actions:
 - Database: Feel free to use any type of database. MongoDB or any SQL database is welcomed.
 
 #### Deployment
-Use [heroku](heroku.com) to host ui and server
+Use [heroku](https://heroku.com) to host ui and server
 
 #### Submission 
 
